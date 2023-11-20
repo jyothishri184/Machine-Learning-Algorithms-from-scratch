@@ -2,6 +2,14 @@
 
 This repository contains implementations of various machine learning algorithms from scratch, without relying on external libraries or frameworks. The goal is to provide clear and educational implementations for better understanding of the underlying principles behind these algorithms.
 
+## Table of Contents
+
+1. [Implemented Algorithms](#implemented-algorithms)
+2. [Quick Start](#quick-start)
+3. [Contribution Guidelines](#contribution-guidelines)
+4. [License](#license)
+5. [Acknowledgments](#acknowledgments)
+
 ## Implemented Algorithms
 
 1. **Linear Regression:** Implementation of simple linear regression for predicting a continuous target variable.
@@ -21,6 +29,7 @@ This repository contains implementations of various machine learning algorithms 
 2. Explore the algorithms:
 
 🚀 Open and run Jupyter notebooks for each algorithm in the `notebooks` directory.
+
 🚀 View the Python scripts in the `src` directory for standalone implementations.
 
 ## Contribution Guidelines
