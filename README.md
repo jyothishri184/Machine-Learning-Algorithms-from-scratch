@@ -2,9 +2,6 @@
 
 This repository contains implementations of various machine learning algorithms from scratch, without relying on external libraries or frameworks. The goal is to provide clear and educational implementations for a better understanding of the underlying principles behind these algorithms.
 
-## Introduction
-
-Welcome to my Machine Learning Algorithms repository! Here, I've implemented fundamental machine learning algorithms without using external libraries, emphasizing clarity and education. Explore the code to gain insights into the inner workings of these algorithms.
 
 ## Table of Contents
 
@@ -12,6 +9,12 @@ Welcome to my Machine Learning Algorithms repository! Here, I've implemented fun
 2. [Implemented Algorithms](#implemented-algorithms)
 3. [License](#license)
 4. [Acknowledgments](#acknowledgments)
+
+
+## Introduction
+
+Welcome to my Machine Learning Algorithms repository! Here, I've implemented fundamental machine learning algorithms without using external libraries, emphasizing clarity and education. Explore the code to gain insights into the inner workings of these algorithms.
+
 
 ## Implemented Algorithms
 
