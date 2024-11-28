@@ -26,7 +26,7 @@ Welcome to my Machine Learning Algorithms repository! Here, I've implemented fun
    - Model that can capture non-linear relationships between variables by fitting a non-linear regression line.
 
 4. **KMeans Clustering:**
-   - An unsupervised learning algorithm that partitions data into K clusters based on similarity.
+   - An unsupervised learning algorithm that partitions data into K clusters based on similarity. 
 
 ## License
 
